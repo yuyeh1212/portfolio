@@ -1,12 +1,23 @@
 [
   {
-    "title": "個人專案作品 1",
-    "description": "這是範例描述",
-    "tech": [
-      "React",
-      "Node"
-    ],
-    "link": "#",
+    "title": "精心時刻 - Quality Time",
+    "description": "美甲預約平台",
+    "tech": ["React", "Node", "Firebase"],
+    "link": "https://yuyeh1212.github.io/C02_QT/",
+    "category": "personal"
+  },
+  {
+    "title": "一頁電商",
+    "description": "電商前台",
+    "tech": ["post API", "JavaScript"],
+    "link": "https://yuyeh1212.github.io/weeklyMainline/w8/index.html#bedAdvantage",
+    "category": "personal"
+  },
+  {
+    "title": "一頁電商",
+    "description": "電商後台",
+    "tech": ["C3.js"],
+    "link": "https://yuyeh1212.github.io/weeklyMainline/w8/backend.html#",
     "category": "personal"
   }
 ]
