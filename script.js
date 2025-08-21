@@ -4,7 +4,7 @@ const mainContent = document.getElementById('main-content');
 const categoryFiles = {
     about: [],
     udemy: ["udemy"],
-    coursera: ["coursera"],
+    hahow: ["hahow"],
     youtube: ["youtube"],
     personal: ["personal"]
 };
@@ -57,7 +57,7 @@ function createWorksHTML(works, category) {
 
     const categoryNames = {
         udemy: "Udemy 課程作品",
-        coursera: "Coursera 課程作品",
+        hahow: "Hahow 課程作品",
         youtube: "YouTube 教學作品",
         personal: "個人專案作品"
     };
