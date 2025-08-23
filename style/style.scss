@@ -4,16 +4,19 @@ body {
   margin: 0;
   color: #333;
 }
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 20px;
 }
+
 header {
   text-align: center;
   padding: 2rem 0;
   color: white;
 }
+
 .nav-buttons {
   display: flex;
   justify-content: center;
@@ -21,6 +24,7 @@ header {
   margin-bottom: 2rem;
   flex-wrap: wrap;
 }
+
 .nav-btn {
   padding: 0.8rem 1.5rem;
   border: none;
@@ -28,42 +32,63 @@ header {
   background: linear-gradient(45deg, #667eea, #764ba2);
   color: white;
   cursor: pointer;
+  transition: transform 0.2s ease;
 }
+
+.nav-btn:hover {
+  transform: translateY(-2px);
+}
+
 .nav-btn.active {
   background: linear-gradient(45deg, #764ba2, #667eea);
 }
+
 .works-section {
   background: white;
   border-radius: 15px;
   padding: 2rem;
   margin-bottom: 2rem;
 }
+
 .works-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem;
 }
+
 .work-card {
   border: 1px solid #ddd;
   border-radius: 10px;
   padding: 1rem;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
 }
+
+/* 作品卡片懸停浮動效果 */
+.work-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+}
+
 .work-title {
   font-size: 1.2rem;
   font-weight: bold;
   margin-bottom: 0.5rem;
 }
+
 .work-description {
   color: #666;
   margin-bottom: 1rem;
 }
+
 .work-tech {
   display: flex;
   gap: 0.5rem;
   flex-wrap: wrap;
   margin-bottom: 1rem;
 }
+
 .tech-tag {
   background: linear-gradient(45deg, #667eea, #764ba2);
   color: white;
@@ -71,6 +96,7 @@ header {
   border-radius: 10px;
   font-size: 0.8rem;
 }
+
 .work-link {
   display: inline-block;
   padding: 0.5rem 1rem;
@@ -78,7 +104,14 @@ header {
   background: linear-gradient(45deg, #667eea, #764ba2);
   color: white;
   text-decoration: none;
+  transition: transform 0.2s ease, opacity 0.2s ease;
 }
+
+.work-link:hover {
+  transform: scale(1.05);
+  opacity: 0.9;
+}
+
 .load-more-btn {
   display: block;
   margin: 1rem auto;
@@ -88,10 +121,15 @@ header {
   background: #444;
   color: white;
   cursor: pointer;
+  transition: transform 0.3s ease, background-color 0.3s ease;
 }
+
+/* 查看更多按鈕懸停放大效果 */
 .load-more-btn:hover {
   background: #222;
+  transform: scale(1.1);
 }
+
 footer {
   text-align: center;
   padding: 1rem;
@@ -103,26 +141,30 @@ footer {
   .container {
     padding: 0 15px;
   }
-
   header h1 {
     font-size: 2rem;
   }
-
   .nav-buttons {
     gap: 0.5rem;
   }
-
   .nav-btn {
     padding: 0.6rem 1rem;
     font-size: 0.9rem;
   }
-
   .works-section {
     padding: 1.5rem;
   }
-
   .works-grid {
     grid-template-columns: 1fr;
     gap: 1rem;
+  }
+
+  /* 在手機版上減少懸停效果的強度 */
+  .work-card:hover {
+    transform: translateY(-4px);
+  }
+
+  .load-more-btn:hover {
+    transform: scale(1.05);
   }
 }

@@ -1,111 +1,71 @@
 [
   {
-    "title": "Udemy 課程作品 1",
-    "description": "這是範例描述",
-    "tech": [
-      "JS",
-      "HTML",
-      "CSS"
-    ],
-    "link": "#",
+    "title": "Project 1",
+    "description": "圍棋資訊網",
+    "tech": ["Html", "css"],
+    "link": "https://yuyeh1212.github.io/project1/",
     "category": "udemy"
   },
   {
-    "title": "Udemy 課程作品 2",
-    "description": "這是範例描述",
-    "tech": [
-      "JS",
-      "HTML",
-      "CSS"
-    ],
-    "link": "#",
+    "title": "Project 2",
+    "description": "日本旅遊推薦",
+    "tech": ["Html", "css"],
+    "link": "https://yuyeh1212.github.io/project2/",
     "category": "udemy"
   },
   {
-    "title": "Udemy 課程作品 3",
-    "description": "這是範例描述",
-    "tech": [
-      "JS",
-      "HTML",
-      "CSS"
-    ],
-    "link": "#",
+    "title": "Project 3",
+    "description": "個人網頁",
+    "tech": ["JS", "HTML", "CSS"],
+    "link": "https://yuyeh1212.github.io/project3/",
     "category": "udemy"
   },
   {
-    "title": "Udemy 課程作品 4",
-    "description": "這是範例描述",
-    "tech": [
-      "JS",
-      "HTML",
-      "CSS"
-    ],
-    "link": "#",
+    "title": "Project 4",
+    "description": "成績計算器",
+    "tech": ["JS", "HTML", "CSS"],
+    "link": "https://yuyeh1212.github.io/protect4/",
     "category": "udemy"
   },
   {
-    "title": "Udemy 課程作品 5",
-    "description": "這是範例描述",
-    "tech": [
-      "JS",
-      "HTML",
-      "CSS"
-    ],
-    "link": "#",
+    "title": "Project 5",
+    "description": "貪吃蛇遊戲",
+    "tech": ["JS", "HTML", "CSS"],
+    "link": "https://yuyeh1212.github.io/project5/",
     "category": "udemy"
   },
   {
-    "title": "Udemy 課程作品 6",
-    "description": "這是範例描述",
-    "tech": [
-      "JS",
-      "HTML",
-      "CSS"
-    ],
-    "link": "#",
+    "title": "Project 6",
+    "description": "打磚塊遊戲",
+    "tech": ["JS", "HTML"],
+    "link": "https://yuyeh1212.github.io/project6/",
     "category": "udemy"
   },
   {
     "title": "Udemy 課程作品 7",
     "description": "這是範例描述",
-    "tech": [
-      "JS",
-      "HTML",
-      "CSS"
-    ],
+    "tech": ["JS", "HTML", "CSS"],
     "link": "#",
     "category": "udemy"
   },
   {
     "title": "Udemy 課程作品 8",
     "description": "這是範例描述",
-    "tech": [
-      "JS",
-      "HTML",
-      "CSS"
-    ],
+    "tech": ["JS", "HTML", "CSS"],
     "link": "#",
     "category": "udemy"
   },
   {
     "title": "Udemy 課程作品 9",
     "description": "這是範例描述",
-    "tech": [
-      "JS",
-      "HTML",
-      "CSS"
-    ],
+    "tech": ["JS", "HTML", "CSS"],
     "link": "#",
     "category": "udemy"
   },
   {
     "title": "Udemy 課程作品 10",
     "description": "這是範例描述",
-    "tech": [
-      "JS",
-      "HTML",
-      "CSS"
-    ],
+    "tech": ["JS", "HTML", "CSS"],
     "link": "#",
     "category": "udemy"
   }
