@@ -19,5 +19,12 @@
     "tech": ["C3.js"],
     "link": "https://yuyeh1212.github.io/weeklyMainline/w8/backend.html#",
     "category": "personal"
+  },
+  {
+    "title": "個人品牌網站",
+    "description": "一頁blog",
+    "tech": ["HTML", "CSS", "JS"],
+    "link": "https://yuyeh1212.github.io/FrontEnd/blog/index.html",
+    "category": "personal"
   }
 ]
