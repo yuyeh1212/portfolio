@@ -5,5 +5,12 @@
     "tech": ["Html", "JS"],
     "link": "https://yuyeh1212.github.io/about/",
     "category": "hahow"
+  },
+  {
+    "title": "project2",
+    "description": "code 分享",
+    "tech": ["Java"],
+    "link": "https://github.com/yuyeh1212/springboot-mall",
+    "category": "hahow"
   }
 ]
