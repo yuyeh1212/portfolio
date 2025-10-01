@@ -12,5 +12,12 @@
     "tech": ["Java"],
     "link": "https://github.com/yuyeh1212/springboot-mall",
     "category": "hahow"
+  },
+  {
+    "title": "project3",
+    "description": "Beautiful City",
+    "tech": ["Html", "JS"],
+    "link": "https://yuyeh1212.github.io/city_project/",
+    "category": "hahow"
   }
 ]
