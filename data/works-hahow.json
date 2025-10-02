@@ -33,5 +33,12 @@
     "tech": ["Html", "JS"],
     "link": "https://yuyeh1212.github.io/monster/",
     "category": "hahow"
+  },
+  {
+    "title": "project 6",
+    "description": "Darts Game",
+    "tech": ["Html", "JS"],
+    "link": "https://yuyeh1212.github.io/darts-game/",
+    "category": "hahow"
   }
 ]
