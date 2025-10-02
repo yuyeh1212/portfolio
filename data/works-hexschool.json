@@ -5,5 +5,12 @@
     "tech": ["Html", "css", "JS"],
     "link": "https://yuyeh1212.github.io/weeklyMainline/",
     "category": "hexschool"
+  },
+  {
+    "title": "Project 2(30天軟體工程師體驗營)",
+    "description": "週次作業展示 + 21天挑戰題目",
+    "tech": ["Html", "css", "JS"],
+    "link": "https://yuyeh1212.github.io/FrontEnd/",
+    "category": "hexschool"
   }
 ]
