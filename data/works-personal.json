@@ -26,5 +26,12 @@
     "tech": ["HTML", "CSS", "JS"],
     "link": "https://yuyeh1212.github.io/FrontEnd/blog/index.html",
     "category": "personal"
+  },
+  {
+    "title": "VITO RESUME",
+    "description": "履歷表",
+    "tech": ["HTML", "CSS"],
+    "link": "https://yuyeh1212.github.io/resume/",
+    "category": "personal"
   }
 ]
