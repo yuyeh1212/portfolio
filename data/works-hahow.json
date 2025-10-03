@@ -47,5 +47,12 @@
     "tech": ["Html", "JS"],
     "link": "https://yuyeh1212.github.io/puck-game/",
     "category": "hahow"
+  },
+  {
+    "title": "project 8",
+    "description": "Survey Form",
+    "tech": ["Html", "CSS", "JS"],
+    "link": "https://yuyeh1212.github.io/form-exercise-/",
+    "category": "hahow"
   }
 ]
