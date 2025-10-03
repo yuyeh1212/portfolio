@@ -40,5 +40,12 @@
     "tech": ["Html", "JS"],
     "link": "https://yuyeh1212.github.io/darts-game/",
     "category": "hahow"
+  },
+  {
+    "title": "project 7",
+    "description": "Puck Game",
+    "tech": ["Html", "JS"],
+    "link": "https://yuyeh1212.github.io/puck-game/",
+    "category": "hahow"
   }
 ]
